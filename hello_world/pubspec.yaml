@@ -1,0 +1,194 @@
+name: hello_world
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  fluro: "^1.1.0"
+  http: ^0.12.0
+  font_awesome_flutter: ^8.0.1
+  camera: ^0.2.6
+  shared_preferences: ^0.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #  - images/a_dot_burr.jpeg
+  #  - images/a_dot_ham.jpeg
+
+  assets:
+    - lib/assets/logo.png
+    
+    - lib/assets/foods/portakal.png
+    - lib/assets/foods/elma.png
+    - lib/assets/foods/armut.png
+    - lib/assets/foods/cilek.png
+    - lib/assets/foods/karpuz.png
+    - lib/assets/foods/domates.png
+    - lib/assets/foods/bitter_cikolata.png
+    - lib/assets/foods/hindi_eti.png
+    - lib/assets/foods/kabak.png
+    - lib/assets/foods/kasar_peyniri.png
+    - lib/assets/foods/kivircik_marul.png
+    - lib/assets/foods/bezelye.png
+    - lib/assets/foods/barbunya.png
+    - lib/assets/foods/kuru_sogan.png
+    - lib/assets/foods/limon.png
+    - lib/assets/foods/maydanoz.png
+    - lib/assets/foods/patates.png
+    - lib/assets/foods/patlican.png
+    - lib/assets/foods/salatalik.png
+    - lib/assets/foods/salca.png
+    - lib/assets/foods/sarimsak.png
+    - lib/assets/foods/seker.png
+    - lib/assets/foods/sivi_yag.png
+    - lib/assets/foods/su.png
+    - lib/assets/foods/tavuk_gogus.png
+    - lib/assets/foods/tuz.png
+    - lib/assets/foods/yesil_biber.png
+    - lib/assets/foods/zeytinyagi.png
+    - lib/assets/foods/havuc.png
+    - lib/assets/foods/asma_yapragi.png
+    - lib/assets/foods/badem.png
+    - lib/assets/foods/bugday_unu.png
+    - lib/assets/foods/bulgur.png
+    - lib/assets/foods/ceviz.png
+    - lib/assets/foods/cilek.png
+    - lib/assets/foods/dana_eti.png
+    - lib/assets/foods/dana_kiyma.png
+    - lib/assets/foods/dereotu.png
+    - lib/assets/foods/ekmek.png
+    - lib/assets/foods/karnabahar.png
+    - lib/assets/foods/kirmizi_biber.png
+    - lib/assets/foods/muz.png
+    - lib/assets/foods/nohut.png
+    - lib/assets/foods/pirasa.png
+    - lib/assets/foods/sucuk.png
+    - lib/assets/foods/sut.png
+    - lib/assets/foods/tereyagi.png
+    - lib/assets/foods/yogurt.png
+    - lib/assets/foods/tel_sehriye.png
+    - lib/assets/foods/beyaz_pirinc.png
+    - lib/assets/foods/yumurta.png
+    - lib/assets/foods/kuru_fasulye.png
+
+    - lib/assets/recipes/bitter_cikolatali_portakal_dilimleri.png
+    - lib/assets/recipes/elmali_hindi.png
+    - lib/assets/recipes/kivircik_salata.png
+    - lib/assets/recipes/patlicanli_tavuk_burger.png
+    - lib/assets/recipes/zeytinyagli_barbunya.png
+    - lib/assets/recipes/zeytinyagli_bezelye.png
+    - lib/assets/recipes/cacik.png
+    - lib/assets/recipes/cilek_receli.png
+    - lib/assets/recipes/dereotlu_kabak_yemegi.png
+    - lib/assets/recipes/domates_corbasi.png
+    - lib/assets/recipes/domatesli_patlican_salatasi.png
+    - lib/assets/recipes/domatesli_pirinc_pilavi.png
+    - lib/assets/recipes/etli_kis_turlusu.png
+    - lib/assets/recipes/etli_kuru_fasulye.png
+    - lib/assets/recipes/firin_kofte.png
+    - lib/assets/recipes/firinda_kizartilmis_elma.png
+    - lib/assets/recipes/firinda_peynirli_karnabahar.png
+    - lib/assets/recipes/havuc_mucver.png
+    - lib/assets/recipes/hunkar_begendi.png
+    - lib/assets/recipes/icli_kofte.png
+    - lib/assets/recipes/kabakli_havuc_salatasi.png
+    - lib/assets/recipes/kasar_peynirli_omlet.png
+    - lib/assets/recipes/kasarli_sucuklu_tost.png
+    - lib/assets/recipes/kiymali_kabak_yemegi.png
+    - lib/assets/recipes/kiymali_yaprak_sarma.png
+    - lib/assets/recipes/kusbasi_tavuklu_patates.png
+    - lib/assets/recipes/menemen.png
+    - lib/assets/recipes/meyveli_yogurt.png
+    - lib/assets/recipes/nohutlu_bulgur_pilavi.png
+    - lib/assets/recipes/patates_koftesi.png
+    - lib/assets/recipes/patates_oturtma.png
+    - lib/assets/recipes/patates_pureli_kofte.png
+    - lib/assets/recipes/patatesli_et_haslama.png
+    - lib/assets/recipes/patatesli_yumurta.png
+    - lib/assets/recipes/patlican_ezmesi.png
+    - lib/assets/recipes/patlican_musakka.png
+    - lib/assets/recipes/pirincli_kabak_corba.png
+    - lib/assets/recipes/portakal_muz_salatasi.png
+    - lib/assets/recipes/sac_kavurma.png
+    - lib/assets/recipes/sarimsakli_karnabahar_musakka.png
+    - lib/assets/recipes/sebzeli_tavuk_yemegi.png
+    - lib/assets/recipes/sehriyeli_pilav.png
+    - lib/assets/recipes/sulu_kofte.png
+    - lib/assets/recipes/tavuk_corbasi.png
+    - lib/assets/recipes/tavuk_kavurma.png
+    - lib/assets/recipes/tavuk_sote.png
+    - lib/assets/recipes/tavuklu_pilav.png
+    - lib/assets/recipes/tereyagli_manti.png
+    - lib/assets/recipes/yogurt_corbasi.png
+    - lib/assets/recipes/karniyarik.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: lib/assets/fonts/Poppins-Medium.ttf
+          weight: 400
+        - asset: lib/assets/fonts/Poppins-Regular.ttf
+          weight: 500
+        - asset: lib/assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: lib/assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: lib/assets/fonts/Poppins-Thin.ttf
+          weight: 200
