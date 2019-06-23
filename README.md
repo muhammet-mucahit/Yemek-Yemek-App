@@ -7,31 +7,33 @@ The Flutter App provides some foods, recipes, favorite recipes of users and sugg
 
 ## Screenshots
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png" width="300" />
   <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/signup.png" width="300" /> 
 </p>
 
-![Login](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png) 
+<p float="center">
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/home.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/drawer.png" width="300" /> 
+</p>
 
-![Signup](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/signup.png)
+<p float="center">
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/foods-1.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/foods-2.png" width="300" /> 
+</p>
 
-![Home](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/home.png) ![Drawer](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/drawer.png)
+<p float="center">
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/food-detail.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/ingredients.png" width="300" /> 
+</p>
 
-![Foods-1](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/foods-1.png)
+<p float="center">
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/recipes.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/recipe-detail.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/favorites.png" width="300" />
+</p>
 
-![Foods-2](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/foods-2.png)
-
-![Food-Detail](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/food-detail.png)
-
-![Ingredients](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/ingredients.png)
-
-![Recipes](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/recipes.png)
-
-![Recipe-Detail](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/recipe-detail.png)
-
-![Favorites](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/favorites.png)
-
-![Advices](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/advices.png)
-
-![Apriori](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/apriori.png)
+<p float="center">
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/apriori.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/advices.png" width="300" /> 
+</p>
