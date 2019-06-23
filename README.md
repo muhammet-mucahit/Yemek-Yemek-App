@@ -8,11 +8,13 @@ The Flutter App provides some foods, recipes, favorite recipes of users and sugg
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png" width="100" />
-  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/home.png" width="100" /> 
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png" width="300" />
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/signup.png" width="300" /> 
 </p>
 
-![Login](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png) ![Signup](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/signup.png)
+![Login](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/login.png) 
+
+![Signup](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/signup.png)
 
 ![Home](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/home.png) ![Drawer](https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/drawer.png)
 
