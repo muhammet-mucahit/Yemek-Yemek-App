@@ -24,7 +24,7 @@ The Flutter App provides some foods, recipes, favorite recipes of users and sugg
 
 <p float="center">
   <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/food-detail.png" width="300" />
-  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/ingredients.png" width="300" /> 
+  <img src="https://github.com/muhammet-mucahit/Yemek-Yemek-App/blob/master/images/ingredients.png" /> 
 </p>
 
 <p float="center">
